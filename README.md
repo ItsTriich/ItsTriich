@@ -2,21 +2,12 @@
 
 <h2>☁️ Azure Administration Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [
 - <b>PowerShell</b>
-  - [
-  - [
-  - [
-  - [
-- <b>C# (.NET Desktop Applications)</b>
-  - [
-  - [
-  - [
-- <b>Python</b>
-  - [
+  - [Windows Automation Scripts](https://github.com/ItsTriich/PowerShell-Automation)
+- <b>Bash Shell</b>
+  - [AzureStorageBackup-CLI](https://github.com/ItsTriich/AzureStorageBackup-CLI)
+  - [AzureUserCreation-CLI](https://github.com/ItsTriich/AzureUserCreation-CLI)
+  - [CloudUploader-CLI](https://github.com/ItsTriich/CloudUploader-CLI)
 
 
 
