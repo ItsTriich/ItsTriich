@@ -1,5 +1,4 @@
-<h1>Hi, I'm Travis! <br/><a href="https://github.com/ItsTriich">Programmer</a>, <a href="https://www.linkedin.com/in/tg12/">Business System Analyst</a>, <a href="https://www.linkedin.com/in/tg12/">Rock Climber</a></h1>
-
+<h1>Hi, I'm Travis! <br/><a href="https://github.com/ItsTriich">Azure Administrator</a>, <a href="https://github.com/ItsTriich">Business Systems Analyst</a> <a href="https://github.com/ItsTriich">Rock Climber</a> 
 <h2>☁️ Azure Administration Projects:</h2>
 
 - <b>PowerShell</b>
