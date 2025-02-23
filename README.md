@@ -1,5 +1,8 @@
-<h1>Hi, I'm Travis! <br/><a href="https://github.com/ItsTriich">Azure Administrator</a>, <a href="https://github.com/ItsTriich">Business Systems Analyst</a>, <a href="https://github.com/ItsTriich">Rock Climber</a> 
+<h1>Hi, I'm Travis! <br/><a href="https://www.linkedin.com/in/tg12/">System Administrator</a>
 <h2>☁️ Azure Projects:</h2>
+
+- <b>Cloud Solutions</b>
+  - [Cloud Resume Challenge](https://github.com/ItsTriich/Azure-Resume)
 
 - <b>PowerShell</b>
   - [Windows Automation Scripts](https://github.com/ItsTriich/PowerShell-Automation)
