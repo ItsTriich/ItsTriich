@@ -1,16 +1,15 @@
-<h1>Hi, I'm Travis! <br/><a href="https://www.linkedin.com/in/tg12/">System Administrator</a>
-<h2>☁️ Azure Projects:</h2>
+### Hi there I am [Travis](https://www.linkedin.com/in/tg12/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br/>
 
-- <b>Cloud Solutions</b>
-  - [Azure Sentinel Honeypot SIEM](https://github.com/ItsTriich/Azure-Projects/tree/main/Azure_Sentinel_Honeypot_SIEM)
-  - [Cloud Resume Challenge](https://github.com/ItsTriich/Azure-Resume)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabkumar7))
 
-- <b>PowerShell</b>
-  - [Windows Automation Scripts](https://github.com/ItsTriich/PowerShell-Automation)
-- <b>Bash Shell</b>
-  - [AzureStorageBackup-CLI](https://github.com/ItsTriich/AzureStorageBackup-CLI)
-  - [AzureUserCreation-CLI](https://github.com/ItsTriich/AzureUserCreation-CLI)
-  - [CloudUploader-CLI](https://github.com/ItsTriich/CloudUploader-CLI)
+---
+
+I am a Junior System Administrator at ARA. I am passionate about the cloud and learning new technologies. It's not said enough, but thank you for taking the time to view my projects and studies as I transition to DevOps.
+
+---
+
+
 
 
 
