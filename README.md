@@ -2,6 +2,7 @@
 <h2>☁️ Azure Projects:</h2>
 
 - <b>Cloud Solutions</b>
+  - [Azure Sentinel Honeypot SIEM](https://github.com/ItsTriich/Azure-Projects/tree/main/Azure_Sentinel_Honeypot_SIEM)
   - [Cloud Resume Challenge](https://github.com/ItsTriich/Azure-Resume)
 
 - <b>PowerShell</b>
