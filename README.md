@@ -5,7 +5,7 @@
 
 ---
 
-I am a Junior System Administrator at ARA. I am passionate about the cloud and learning new technologies. It's not said enough, but thank you for taking the time to view my projects and studies as I transition to DevOps.
+I am a Junior System Administrator at ARA. I am passionate about the cloud and learning new technologies. It's not said enough, but thank you for taking the time to view my projects and studies.
 
 ---
 
