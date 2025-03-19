@@ -1,11 +1,12 @@
-### Hi there I am [Travis](https://www.linkedin.com/in/tg12/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/>
+# <a href="https://www.linkedin.com/in/joshmadakor/">Travis Gray</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabkumar7))
+I'm passionate about cybersecurity and cloud technologies, and I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, I currently work as a Junior System Administrator at ARA. Please feel free to check them out and see the work I’ve contributed to enhancing security operations and processes!
 
----
+## ⚠️ Vulnerability Management Projects
 
-I am a Junior System Administrator at ARA. I am passionate about the cloud and learning new technologies. It's not said enough, but thank you for taking the time to view my projects and studies.
+- **[Vulnerability Management Program Implementation](
+
+
 
 ---
 
@@ -15,6 +16,5 @@ I am a Junior System Administrator at ARA. I am passionate about the cloud and l
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="tg12 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tg12)
 
-[linkedin]: https://linkedin.com/in/tg12
