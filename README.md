@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/joshmadakor/">Travis Gray</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and cloud technologies, and I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, Please feel free to check them out and see the work I’ve contributed to enhancing security operations and processes!
+I'm passionate about cybersecurity and cloud technologies, and I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection. Please feel free to check them out and see the work I’ve contributed to enhancing security operations and processes!
 
 ## ⚠️ Vulnerability Management Projects
 
