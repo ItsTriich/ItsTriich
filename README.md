@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and cloud technologies, and I love tackling c
 ## ☁️ Cloud Projects
 
 - [Azure Resume Challenge](https://github.com/ItsTriich/Azure-Resume)
-- [Terraform High Availability Scalable Infrastructure Deployment](https://github.com/ItsTriich/terraform-projects/tree/main/production-grade%20azure%20infrastructure)
+- [Terraform High Availability / Scalable Infrastructure Deployment](https://github.com/ItsTriich/terraform-projects/tree/main/production-grade%20azure%20infrastructure)
 
 
 
