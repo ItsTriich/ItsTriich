@@ -4,6 +4,7 @@ I'm passionate about cybersecurity and cloud technologies, and I love tackling c
 
 ## ⚠️ Vulnerability Management Projects
 
+- [Dependency-Check Graphical User Interface](https://github.com/ItsTriich/DependencyCheckGUI)
 - [Vulnerability Management Program Implementation](https://github.com/ItsTriich/vulnerability-management-program)
 
 ---
